@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Backend y bases de datos
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,ts,mysql, postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=python,django,ts,mysql,postgres,supabase" />
 </p>
 
 ### Herramientas
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ### Extras
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,blender,kali">
+  <img src="https://skillicons.dev/icons?i=arduino,blender,kali"/>
 </p>
 
 ##Mi portafolio
