@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Sobre mí
 
-🎓 Estudiante de Analista Programador en INACAP.
-💻 Interesado en el desarrollo web y de aplicaciones.
-🎨 Me gusta especialmente el desarrollo Frontend.
-🗄️ Interesado en las bases de datos relacionales.
-🚀 Siempre aprendiendo y construyendo nuevos proyectos.
-🌱 Me gusta realizar Proyectos IoT que solucionen problematicas.
+- 🎓 Estudiante de Analista Programador en INACAP.
+- 💻 Interesado en el desarrollo web y de aplicaciones.
+- 🎨 Me gusta especialmente el desarrollo Frontend.
+- 🗄️ Interesado en las bases de datos relacionales.
+- 🚀 Siempre aprendiendo y construyendo nuevos proyectos.
+- 🌱 Me gusta realizar Proyectos IoT que solucionen problematicas.
 
 ## 🛠️Tecnologías y herramientas
 
