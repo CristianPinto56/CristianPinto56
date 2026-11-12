@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,figma,postman" />
 </p>
 
 ### Extras
@@ -52,6 +52,10 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=arduino,blender,kali"/>
 </p>
 
-##Mi portafolio
+## Mi portafolio
+
+## Mi proyecto personal
+
+## Certicaciones
 
 
