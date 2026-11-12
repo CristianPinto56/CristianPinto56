@@ -16,19 +16,20 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  Desarrollador en formación interesado en el desarrollo
-  Frontend, las bases de datos y la creación de soluciones
-  tecnológicas.
+  Estudiante de Analista Programador · INACAP
+
+  Estudiante de desarrollo de software apasionado por el desarrollo Frontend, las bases de datos relacionales y
+  las soluciones tecnológicas. Me interesa construir aplicaciones funcionales, intuitivas y enfocadas en resolver problemas reales.
 </p>
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de Analista Programador en INACAP.
-- 💻 Interesado en el desarrollo web y de aplicaciones.
-- 🎨 Me gusta especialmente el desarrollo Frontend.
-- 🗄️ Interesado en las bases de datos relacionales.
-- 🚀 Siempre aprendiendo y construyendo nuevos proyectos.
-- 🌱 Me gusta realizar Proyectos IoT que solucionen problematicas.
+🎓 Estudiante de Analista Programador en INACAP.
+💻 Interesado en el desarrollo web y de aplicaciones.
+🎨 Me gusta especialmente el desarrollo Frontend.
+🗄️ Interesado en las bases de datos relacionales.
+🚀 Siempre aprendiendo y construyendo nuevos proyectos.
+🌱 Me gusta realizar Proyectos IoT que solucionen problematicas.
 
 ## 🛠️Tecnologías y herramientas
 
